@@ -17,7 +17,6 @@ st.write(
 )
 
 # Sample food dataset
-
 data = [
     # INDIAN
     {"Dish": "Paneer Tikka", "Cuisine": "Indian", "Diet": "Vegetarian", "Price (AED)": 30, "Rating": 4.7, "Mood": "Spicy"},
